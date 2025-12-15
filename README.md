@@ -5,7 +5,7 @@ including quantitative indicators and textual analysis.
 
 ## Project Context
 
-This project was originally completed as part of a postgraduate Data Science programme.
+This project was originally completed as part of a MSc Data Science programme.
 
 ## Files
 
