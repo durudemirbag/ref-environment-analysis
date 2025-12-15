@@ -15,6 +15,7 @@ This project was originally completed as part of a MSc Data Science programme.
 
 ## Requirements
 
+- Python 3.9+
 - pandas
 - numpy
 - matplotlib
