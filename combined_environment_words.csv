@@ -1,0 +1,721 @@
+university,word,frequency,level,sample
+University of Birmingham,research,171,unit,b_env
+University of Birmingham,staff,71,unit,b_env
+University of Birmingham,school,67,unit,b_env
+University of Birmingham,security,45,unit,b_env
+University of Birmingham,university,44,unit,b_env
+University of Birmingham,impact,40,unit,b_env
+University of Birmingham,ai,38,unit,b_env
+University of Birmingham,work,37,unit,b_env
+University of Birmingham,new,34,unit,b_env
+University of Birmingham,including,33,unit,b_env
+University of Birmingham,students,31,unit,b_env
+University of Birmingham,computer,29,unit,b_env
+University of Birmingham,science,28,unit,b_env
+University of Birmingham,academic,28,unit,b_env
+University of Birmingham,support,28,unit,b_env
+University of Birmingham,international,26,unit,b_env
+University of Birmingham,training,26,unit,b_env
+University of Birmingham,period,25,unit,b_env
+University of Birmingham,phd,24,unit,b_env
+University of Birmingham,development,24,unit,b_env
+Lancaster University,research,178,unit,b_env
+Lancaster University,staff,91,unit,b_env
+Lancaster University,school,51,unit,b_env
+Lancaster University,impact,45,unit,b_env
+Lancaster University,new,44,unit,b_env
+Lancaster University,including,43,unit,b_env
+Lancaster University,support,36,unit,b_env
+Lancaster University,academic,35,unit,b_env
+Lancaster University,period,33,unit,b_env
+Lancaster University,co,32,unit,b_env
+Lancaster University,health,32,unit,b_env
+Lancaster University,scc,31,unit,b_env
+Lancaster University,systems,31,unit,b_env
+Lancaster University,science,29,unit,b_env
+Lancaster University,security,27,unit,b_env
+Lancaster University,students,27,unit,b_env
+Lancaster University,university,26,unit,b_env
+Lancaster University,data,26,unit,b_env
+Lancaster University,strategy,25,unit,b_env
+Lancaster University,computing,25,unit,b_env
+The University of Manchester,research,126,unit,b_env
+The University of Manchester,support,75,unit,b_env
+The University of Manchester,staff,72,unit,b_env
+The University of Manchester,unit,69,unit,b_env
+The University of Manchester,pgr,50,unit,b_env
+The University of Manchester,impact,47,unit,b_env
+The University of Manchester,data,43,unit,b_env
+The University of Manchester,pgrs,43,unit,b_env
+The University of Manchester,science,34,unit,b_env
+The University of Manchester,academics,33,unit,b_env
+The University of Manchester,funding,32,unit,b_env
+The University of Manchester,uom,32,unit,b_env
+The University of Manchester,strategy,31,unit,b_env
+The University of Manchester,time,31,unit,b_env
+The University of Manchester,via,31,unit,b_env
+The University of Manchester,new,30,unit,b_env
+The University of Manchester,institutional,29,unit,b_env
+The University of Manchester,software,29,unit,b_env
+The University of Manchester,period,28,unit,b_env
+The University of Manchester,ii,26,unit,b_env
+University of Sheffield,research,186,unit,b_env
+University of Sheffield,staff,80,unit,b_env
+University of Sheffield,university,56,unit,b_env
+University of Sheffield,support,49,unit,b_env
+University of Sheffield,impact,44,unit,b_env
+University of Sheffield,supported,39,unit,b_env
+University of Sheffield,grant,35,unit,b_env
+University of Sheffield,strategy,33,unit,b_env
+University of Sheffield,theme,33,unit,b_env
+University of Sheffield,epsrc,32,unit,b_env
+University of Sheffield,work,31,unit,b_env
+University of Sheffield,academic,31,unit,b_env
+University of Sheffield,new,30,unit,b_env
+University of Sheffield,robotics,30,unit,b_env
+University of Sheffield,sheffield,28,unit,b_env
+University of Sheffield,interdisciplinary,28,unit,b_env
+University of Sheffield,funded,28,unit,b_env
+University of Sheffield,speech,27,unit,b_env
+University of Sheffield,funding,27,unit,b_env
+University of Sheffield,science,25,unit,b_env
+University of Bristol,research,196,unit,b_env
+University of Bristol,staff,69,unit,b_env
+University of Bristol,epsrc,53,unit,b_env
+University of Bristol,faculty,47,unit,b_env
+University of Bristol,students,43,unit,b_env
+University of Bristol,support,40,unit,b_env
+University of Bristol,new,37,unit,b_env
+University of Bristol,uob,37,unit,b_env
+University of Bristol,bristol,36,unit,b_env
+University of Bristol,training,36,unit,b_env
+University of Bristol,page,33,unit,b_env
+University of Bristol,academics,33,unit,b_env
+University of Bristol,impact,30,unit,b_env
+University of Bristol,researchers,30,unit,b_env
+University of Bristol,uk,30,unit,b_env
+University of Bristol,funding,29,unit,b_env
+University of Bristol,vision,28,unit,b_env
+University of Bristol,group,28,unit,b_env
+University of Bristol,ref,27,unit,b_env
+University of Bristol,pgr,27,unit,b_env
+University of Dundee,research,180,unit,b_env
+University of Dundee,staff,62,unit,b_env
+University of Dundee,unit,56,unit,b_env
+University of Dundee,university,49,unit,b_env
+University of Dundee,school,45,unit,b_env
+University of Dundee,uod,35,unit,b_env
+University of Dundee,students,34,unit,b_env
+University of Dundee,impact,33,unit,b_env
+University of Dundee,computing,32,unit,b_env
+University of Dundee,reed,28,unit,b_env
+University of Dundee,funding,27,unit,b_env
+University of Dundee,trucco,25,unit,b_env
+University of Dundee,data,24,unit,b_env
+University of Dundee,arg,23,unit,b_env
+University of Dundee,tech,23,unit,b_env
+University of Dundee,support,23,unit,b_env
+University of Dundee,science,22,unit,b_env
+University of Dundee,phd,22,unit,b_env
+University of Dundee,technology,21,unit,b_env
+University of Dundee,health,21,unit,b_env
+University of Nottingham,research,204,unit,b_env
+University of Nottingham,school,103,unit,b_env
+University of Nottingham,staff,66,unit,b_env
+University of Nottingham,university,58,unit,b_env
+University of Nottingham,computer,47,unit,b_env
+University of Nottingham,nottingham,46,unit,b_env
+University of Nottingham,science,44,unit,b_env
+University of Nottingham,new,44,unit,b_env
+University of Nottingham,students,38,unit,b_env
+University of Nottingham,including,38,unit,b_env
+University of Nottingham,period,37,unit,b_env
+University of Nottingham,epsrc,37,unit,b_env
+University of Nottingham,ref,36,unit,b_env
+University of Nottingham,funding,36,unit,b_env
+University of Nottingham,digital,35,unit,b_env
+University of Nottingham,support,35,unit,b_env
+University of Nottingham,development,35,unit,b_env
+University of Nottingham,academic,32,unit,b_env
+University of Nottingham,impact,31,unit,b_env
+University of Nottingham,group,31,unit,b_env
+University of Southampton,research,140,unit,b_env
+University of Southampton,ecs,91,unit,b_env
+University of Southampton,staff,58,unit,b_env
+University of Southampton,impact,52,unit,b_env
+University of Southampton,university,50,unit,b_env
+University of Southampton,including,48,unit,b_env
+University of Southampton,funding,46,unit,b_env
+University of Southampton,ai,41,unit,b_env
+University of Southampton,also,37,unit,b_env
+University of Southampton,uk,36,unit,b_env
+University of Southampton,students,33,unit,b_env
+University of Southampton,data,33,unit,b_env
+University of Southampton,led,33,unit,b_env
+University of Southampton,science,32,unit,b_env
+University of Southampton,group,30,unit,b_env
+University of Southampton,support,30,unit,b_env
+University of Southampton,industry,28,unit,b_env
+University of Southampton,period,27,unit,b_env
+University of Southampton,training,26,unit,b_env
+University of Southampton,strategy,25,unit,b_env
+University of York,research,213,unit,b_env
+University of York,staff,68,unit,b_env
+University of York,university,62,unit,b_env
+University of York,department,61,unit,b_env
+University of York,impact,57,unit,b_env
+University of York,support,52,unit,b_env
+University of York,also,50,unit,b_env
+University of York,systems,50,unit,b_env
+University of York,cs,38,unit,b_env
+University of York,students,38,unit,b_env
+University of York,researchers,36,unit,b_env
+University of York,including,31,unit,b_env
+University of York,ref,29,unit,b_env
+University of York,york,28,unit,b_env
+University of York,work,27,unit,b_env
+University of York,part,26,unit,b_env
+University of York,strategy,24,unit,b_env
+University of York,themes,24,unit,b_env
+University of York,period,24,unit,b_env
+University of York,engineering,23,unit,b_env
+Aston University,research,170,unit,w_env
+Aston University,staff,67,unit,w_env
+Aston University,eps,61,unit,w_env
+Aston University,support,59,unit,w_env
+Aston University,aston,52,unit,w_env
+Aston University,university,42,unit,w_env
+Aston University,students,42,unit,w_env
+Aston University,engineering,33,unit,w_env
+Aston University,international,33,unit,w_env
+Aston University,development,33,unit,w_env
+Aston University,astute,31,unit,w_env
+Aston University,ref,29,unit,w_env
+Aston University,funding,28,unit,w_env
+Aston University,science,27,unit,w_env
+Aston University,impact,27,unit,w_env
+Aston University,industry,27,unit,w_env
+Aston University,researchers,25,unit,w_env
+Aston University,college,24,unit,w_env
+Aston University,period,24,unit,w_env
+Aston University,new,24,unit,w_env
+"Birkbeck, University of London",research,199,unit,w_env
+"Birkbeck, University of London",staff,86,unit,w_env
+"Birkbeck, University of London",data,67,unit,w_env
+"Birkbeck, University of London",department,56,unit,w_env
+"Birkbeck, University of London",impact,55,unit,w_env
+"Birkbeck, University of London",college,46,unit,w_env
+"Birkbeck, University of London",students,45,unit,w_env
+"Birkbeck, University of London",support,36,unit,w_env
+"Birkbeck, University of London",school,34,unit,w_env
+"Birkbeck, University of London",funding,34,unit,w_env
+"Birkbeck, University of London",strategy,28,unit,w_env
+"Birkbeck, University of London",time,27,unit,w_env
+"Birkbeck, University of London",birkbeck,26,unit,w_env
+"Birkbeck, University of London",including,26,unit,w_env
+"Birkbeck, University of London",training,26,unit,w_env
+"Birkbeck, University of London",science,24,unit,w_env
+"Birkbeck, University of London",knowledge,24,unit,w_env
+"Birkbeck, University of London",management,23,unit,w_env
+"Birkbeck, University of London",two,23,unit,w_env
+"Birkbeck, University of London",academic,23,unit,w_env
+Liverpool John Moores University,research,244,unit,w_env
+Liverpool John Moores University,staff,135,unit,w_env
+Liverpool John Moores University,uoa,95,unit,w_env
+Liverpool John Moores University,impact,79,unit,w_env
+Liverpool John Moores University,university,70,unit,w_env
+Liverpool John Moores University,support,57,unit,w_env
+Liverpool John Moores University,funding,43,unit,w_env
+Liverpool John Moores University,period,38,unit,w_env
+Liverpool John Moores University,faculty,38,unit,w_env
+Liverpool John Moores University,students,37,unit,w_env
+Liverpool John Moores University,ref,35,unit,w_env
+Liverpool John Moores University,project,34,unit,w_env
+Liverpool John Moores University,funded,33,unit,w_env
+Liverpool John Moores University,also,30,unit,w_env
+Liverpool John Moores University,collaborations,28,unit,w_env
+Liverpool John Moores University,ieee,26,unit,w_env
+Liverpool John Moores University,section,26,unit,w_env
+Liverpool John Moores University,applications,25,unit,w_env
+Liverpool John Moores University,work,23,unit,w_env
+Liverpool John Moores University,outputs,23,unit,w_env
+Manchester Metropolitan University,research,173,unit,w_env
+Manchester Metropolitan University,staff,74,unit,w_env
+Manchester Metropolitan University,development,53,unit,w_env
+Manchester Metropolitan University,ieee,53,unit,w_env
+Manchester Metropolitan University,support,44,unit,w_env
+Manchester Metropolitan University,funding,42,unit,w_env
+Manchester Metropolitan University,international,40,unit,w_env
+Manchester Metropolitan University,science,37,unit,w_env
+Manchester Metropolitan University,ai,36,unit,w_env
+Manchester Metropolitan University,university,35,unit,w_env
+Manchester Metropolitan University,uk,32,unit,w_env
+Manchester Metropolitan University,access,32,unit,w_env
+Manchester Metropolitan University,including,30,unit,w_env
+Manchester Metropolitan University,data,30,unit,w_env
+Manchester Metropolitan University,impact,29,unit,w_env
+Manchester Metropolitan University,intelligence,29,unit,w_env
+Manchester Metropolitan University,ref,29,unit,w_env
+Manchester Metropolitan University,cfacs,29,unit,w_env
+Manchester Metropolitan University,conference,28,unit,w_env
+Manchester Metropolitan University,manchester,25,unit,w_env
+Nottingham Trent University (NTU),research,186,unit,w_env
+Nottingham Trent University (NTU),circ,45,unit,w_env
+Nottingham Trent University (NTU),including,42,unit,w_env
+Nottingham Trent University (NTU),staff,41,unit,w_env
+Nottingham Trent University (NTU),university,39,unit,w_env
+Nottingham Trent University (NTU),uoa,37,unit,w_env
+Nottingham Trent University (NTU),group,33,unit,w_env
+Nottingham Trent University (NTU),development,33,unit,w_env
+Nottingham Trent University (NTU),project,33,unit,w_env
+Nottingham Trent University (NTU),ntu,32,unit,w_env
+Nottingham Trent University (NTU),international,32,unit,w_env
+Nottingham Trent University (NTU),phd,30,unit,w_env
+Nottingham Trent University (NTU),section,29,unit,w_env
+Nottingham Trent University (NTU),support,28,unit,w_env
+Nottingham Trent University (NTU),technology,26,unit,w_env
+Nottingham Trent University (NTU),impact,24,unit,w_env
+Nottingham Trent University (NTU),new,22,unit,w_env
+Nottingham Trent University (NTU),science,21,unit,w_env
+Nottingham Trent University (NTU),also,21,unit,w_env
+Nottingham Trent University (NTU),smart,20,unit,w_env
+University of Huddersfield,research,188,unit,w_env
+University of Huddersfield,university,73,unit,w_env
+University of Huddersfield,staff,60,unit,w_env
+University of Huddersfield,support,56,unit,w_env
+University of Huddersfield,unit,51,unit,w_env
+University of Huddersfield,international,50,unit,w_env
+University of Huddersfield,impact,34,unit,w_env
+University of Huddersfield,new,33,unit,w_env
+University of Huddersfield,school,32,unit,w_env
+University of Huddersfield,led,29,unit,w_env
+University of Huddersfield,development,29,unit,w_env
+University of Huddersfield,conference,29,unit,w_env
+University of Huddersfield,funding,28,unit,w_env
+University of Huddersfield,within,27,unit,w_env
+University of Huddersfield,period,27,unit,w_env
+University of Huddersfield,academic,27,unit,w_env
+University of Huddersfield,uk,27,unit,w_env
+University of Huddersfield,strategy,25,unit,w_env
+University of Huddersfield,centre,25,unit,w_env
+University of Huddersfield,collaboration,25,unit,w_env
+University of West London,research,197,unit,w_env
+University of West London,university,74,unit,w_env
+University of West London,uoa,48,unit,w_env
+University of West London,zolgharni,37,unit,w_env
+University of West London,students,36,unit,w_env
+University of West London,support,34,unit,w_env
+University of West London,also,34,unit,w_env
+University of West London,international,34,unit,w_env
+University of West London,staff,33,unit,w_env
+University of West London,abdelnour,32,unit,w_env
+University of West London,nocera,32,unit,w_env
+University of West London,loo,31,unit,w_env
+University of West London,uk,28,unit,w_env
+University of West London,impact,26,unit,w_env
+University of West London,school,25,unit,w_env
+University of West London,cybersecurity,25,unit,w_env
+University of West London,security,25,unit,w_env
+University of West London,ai,24,unit,w_env
+University of West London,funded,23,unit,w_env
+University of West London,data,22,unit,w_env
+University of East London (UEL),research,169,unit,w_env
+University of East London (UEL),uel,47,unit,w_env
+University of East London (UEL),staff,44,unit,w_env
+University of East London (UEL),software,33,unit,w_env
+University of East London (UEL),data,33,unit,w_env
+University of East London (UEL),dr,32,unit,w_env
+University of East London (UEL),group,28,unit,w_env
+University of East London (UEL),computing,26,unit,w_env
+University of East London (UEL),students,26,unit,w_env
+University of East London (UEL),uk,25,unit,w_env
+University of East London (UEL),systems,22,unit,w_env
+University of East London (UEL),https,21,unit,w_env
+University of East London (UEL),knowledge,20,unit,w_env
+University of East London (UEL),phd,20,unit,w_env
+University of East London (UEL),support,19,unit,w_env
+University of East London (UEL),engineering,18,unit,w_env
+University of East London (UEL),new,18,unit,w_env
+University of East London (UEL),ieee,18,unit,w_env
+University of East London (UEL),work,17,unit,w_env
+University of East London (UEL),learning,17,unit,w_env
+University of Stirling,research,142,unit,w_env
+University of Stirling,staff,50,unit,w_env
+University of Stirling,impact,47,unit,w_env
+University of Stirling,csm,42,unit,w_env
+University of Stirling,data,42,unit,w_env
+University of Stirling,grant,35,unit,w_env
+University of Stirling,new,33,unit,w_env
+University of Stirling,university,31,unit,w_env
+University of Stirling,computational,29,unit,w_env
+University of Stirling,work,27,unit,w_env
+University of Stirling,stirling,26,unit,w_env
+University of Stirling,including,25,unit,w_env
+University of Stirling,students,24,unit,w_env
+University of Stirling,modelling,23,unit,w_env
+University of Stirling,science,21,unit,w_env
+University of Stirling,group,21,unit,w_env
+University of Stirling,researchers,21,unit,w_env
+University of Stirling,techniques,20,unit,w_env
+University of Stirling,optimisation,20,unit,w_env
+University of Stirling,collaboration,20,unit,w_env
+University of Birmingham,research,161,institution,b_env
+University of Birmingham,university,45,institution,b_env
+University of Birmingham,staff,39,institution,b_env
+University of Birmingham,academic,35,institution,b_env
+University of Birmingham,support,28,institution,b_env
+University of Birmingham,new,27,institution,b_env
+University of Birmingham,development,27,institution,b_env
+University of Birmingham,impact,26,institution,b_env
+University of Birmingham,including,23,institution,b_env
+University of Birmingham,birmingham,21,institution,b_env
+University of Birmingham,career,19,institution,b_env
+University of Birmingham,strategic,18,institution,b_env
+University of Birmingham,institute,17,institution,b_env
+University of Birmingham,researchers,17,institution,b_env
+University of Birmingham,uob,16,institution,b_env
+University of Birmingham,across,16,institution,b_env
+University of Birmingham,centre,16,institution,b_env
+University of Birmingham,industry,16,institution,b_env
+University of Birmingham,ref,15,institution,b_env
+University of Birmingham,key,15,institution,b_env
+Lancaster University,research,125,institution,b_env
+Lancaster University,staff,49,institution,b_env
+Lancaster University,lancaster,35,institution,b_env
+Lancaster University,impact,29,institution,b_env
+Lancaster University,figure,24,institution,b_env
+Lancaster University,university,23,institution,b_env
+Lancaster University,development,23,institution,b_env
+Lancaster University,support,22,institution,b_env
+Lancaster University,since,22,institution,b_env
+Lancaster University,new,21,institution,b_env
+Lancaster University,researchers,18,institution,b_env
+Lancaster University,engagement,17,institution,b_env
+Lancaster University,including,17,institution,b_env
+Lancaster University,page,15,institution,b_env
+Lancaster University,facilities,14,institution,b_env
+Lancaster University,work,14,institution,b_env
+Lancaster University,income,14,institution,b_env
+Lancaster University,institutional,14,institution,b_env
+Lancaster University,social,13,institution,b_env
+Lancaster University,science,13,institution,b_env
+The University of Manchester,research,171,institution,b_env
+The University of Manchester,university,43,institution,b_env
+The University of Manchester,staff,39,institution,b_env
+The University of Manchester,including,33,institution,b_env
+The University of Manchester,support,33,institution,b_env
+The University of Manchester,manchester,32,institution,b_env
+The University of Manchester,impact,31,institution,b_env
+The University of Manchester,development,27,institution,b_env
+The University of Manchester,training,26,institution,b_env
+The University of Manchester,academic,25,institution,b_env
+The University of Manchester,centre,25,institution,b_env
+The University of Manchester,ref,24,institution,b_env
+The University of Manchester,uk,22,institution,b_env
+The University of Manchester,career,20,institution,b_env
+The University of Manchester,investment,20,institution,b_env
+The University of Manchester,uom,18,institution,b_env
+The University of Manchester,researchers,18,institution,b_env
+The University of Manchester,infrastructure,18,institution,b_env
+The University of Manchester,facilities,18,institution,b_env
+The University of Manchester,innovation,17,institution,b_env
+University of Sheffield,research,130,institution,b_env
+University of Sheffield,support,50,institution,b_env
+University of Sheffield,staff,28,institution,b_env
+University of Sheffield,development,26,institution,b_env
+University of Sheffield,impact,24,institution,b_env
+University of Sheffield,funding,22,institution,b_env
+University of Sheffield,training,21,institution,b_env
+University of Sheffield,academic,20,institution,b_env
+University of Sheffield,including,18,institution,b_env
+University of Sheffield,career,18,institution,b_env
+University of Sheffield,university,17,institution,b_env
+University of Sheffield,data,17,institution,b_env
+University of Sheffield,leadership,16,institution,b_env
+University of Sheffield,programme,16,institution,b_env
+University of Sheffield,new,16,institution,b_env
+University of Sheffield,funded,15,institution,b_env
+University of Sheffield,pgr,15,institution,b_env
+University of Sheffield,institutional,15,institution,b_env
+University of Sheffield,page,14,institution,b_env
+University of Sheffield,researchers,14,institution,b_env
+University of Bristol,research,134,institution,b_env
+University of Bristol,uob,62,institution,b_env
+University of Bristol,staff,55,institution,b_env
+University of Bristol,bristol,33,institution,b_env
+University of Bristol,university,31,institution,b_env
+University of Bristol,support,28,institution,b_env
+University of Bristol,development,26,institution,b_env
+University of Bristol,uk,22,institution,b_env
+University of Bristol,gender,16,institution,b_env
+University of Bristol,working,16,institution,b_env
+University of Bristol,external,15,institution,b_env
+University of Bristol,engagement,15,institution,b_env
+University of Bristol,pay,15,institution,b_env
+University of Bristol,edi,15,institution,b_env
+University of Bristol,high,14,institution,b_env
+University of Bristol,across,14,institution,b_env
+University of Bristol,academic,14,institution,b_env
+University of Bristol,new,14,institution,b_env
+University of Bristol,gap,14,institution,b_env
+University of Bristol,institute,14,institution,b_env
+University of Dundee,research,109,institution,b_env
+University of Dundee,university,46,institution,b_env
+University of Dundee,staff,29,institution,b_env
+University of Dundee,support,24,institution,b_env
+University of Dundee,million,21,institution,b_env
+University of Dundee,centre,20,institution,b_env
+University of Dundee,development,19,institution,b_env
+University of Dundee,investment,19,institution,b_env
+University of Dundee,engagement,19,institution,b_env
+University of Dundee,impact,17,institution,b_env
+University of Dundee,uk,17,institution,b_env
+University of Dundee,schools,16,institution,b_env
+University of Dundee,dundee,15,institution,b_env
+University of Dundee,across,15,institution,b_env
+University of Dundee,training,15,institution,b_env
+University of Dundee,health,14,institution,b_env
+University of Dundee,year,14,institution,b_env
+University of Dundee,world,13,institution,b_env
+University of Dundee,new,13,institution,b_env
+University of Dundee,innovation,13,institution,b_env
+University of Nottingham,research,156,institution,b_env
+University of Nottingham,uon,106,institution,b_env
+University of Nottingham,impact,32,institution,b_env
+University of Nottingham,researchers,30,institution,b_env
+University of Nottingham,strategic,26,institution,b_env
+University of Nottingham,support,26,institution,b_env
+University of Nottingham,innovation,25,institution,b_env
+University of Nottingham,staff,25,institution,b_env
+University of Nottingham,development,25,institution,b_env
+University of Nottingham,including,22,institution,b_env
+University of Nottingham,edi,22,institution,b_env
+University of Nottingham,uk,21,institution,b_env
+University of Nottingham,new,21,institution,b_env
+University of Nottingham,nottingham,19,institution,b_env
+University of Nottingham,across,19,institution,b_env
+University of Nottingham,supported,17,institution,b_env
+University of Nottingham,funding,16,institution,b_env
+University of Nottingham,training,16,institution,b_env
+University of Nottingham,commitment,15,institution,b_env
+University of Nottingham,international,15,institution,b_env
+University of Southampton,research,141,institution,b_env
+University of Southampton,university,76,institution,b_env
+University of Southampton,staff,44,institution,b_env
+University of Southampton,including,29,institution,b_env
+University of Southampton,international,23,institution,b_env
+University of Southampton,enterprise,23,institution,b_env
+University of Southampton,national,23,institution,b_env
+University of Southampton,strategy,21,institution,b_env
+University of Southampton,led,21,institution,b_env
+University of Southampton,support,21,institution,b_env
+University of Southampton,impact,20,institution,b_env
+University of Southampton,institute,20,institution,b_env
+University of Southampton,academic,20,institution,b_env
+University of Southampton,uk,18,institution,b_env
+University of Southampton,interdisciplinary,18,institution,b_env
+University of Southampton,ref,18,institution,b_env
+University of Southampton,development,18,institution,b_env
+University of Southampton,world,17,institution,b_env
+University of Southampton,education,17,institution,b_env
+University of Southampton,page,17,institution,b_env
+University of York,research,172,institution,b_env
+University of York,staff,39,institution,b_env
+University of York,university,37,institution,b_env
+University of York,york,34,institution,b_env
+University of York,impact,30,institution,b_env
+University of York,support,27,institution,b_env
+University of York,development,27,institution,b_env
+University of York,health,24,institution,b_env
+University of York,including,22,institution,b_env
+University of York,departments,21,institution,b_env
+University of York,centre,21,institution,b_env
+University of York,policy,20,institution,b_env
+University of York,academic,19,institution,b_env
+University of York,open,18,institution,b_env
+University of York,international,16,institution,b_env
+University of York,researchers,16,institution,b_env
+University of York,uoas,16,institution,b_env
+University of York,training,15,institution,b_env
+University of York,practice,14,institution,b_env
+University of York,equality,13,institution,b_env
+Aston University,research,115,institution,w_env
+Aston University,aston,88,institution,w_env
+Aston University,university,44,institution,w_env
+Aston University,staff,33,institution,w_env
+Aston University,development,27,institution,w_env
+Aston University,support,23,institution,w_env
+Aston University,academic,22,institution,w_env
+Aston University,training,20,institution,w_env
+Aston University,impact,20,institution,w_env
+Aston University,school,18,institution,w_env
+Aston University,growth,17,institution,w_env
+Aston University,section,16,institution,w_env
+Aston University,strategy,15,institution,w_env
+Aston University,funding,15,institution,w_env
+Aston University,including,14,institution,w_env
+Aston University,business,13,institution,w_env
+Aston University,teaching,13,institution,w_env
+Aston University,students,12,institution,w_env
+Aston University,midlands,12,institution,w_env
+Aston University,graduate,12,institution,w_env
+"Birkbeck, University of London",research,107,institution,w_env
+"Birkbeck, University of London",birkbeck,50,institution,w_env
+"Birkbeck, University of London",college,45,institution,w_env
+"Birkbeck, University of London",career,19,institution,w_env
+"Birkbeck, University of London",staff,18,institution,w_env
+"Birkbeck, University of London",support,18,institution,w_env
+"Birkbeck, University of London",also,16,institution,w_env
+"Birkbeck, University of London",including,16,institution,w_env
+"Birkbeck, University of London",researchers,16,institution,w_env
+"Birkbeck, University of London",london,14,institution,w_env
+"Birkbeck, University of London",equality,14,institution,w_env
+"Birkbeck, University of London",university,13,institution,w_env
+"Birkbeck, University of London",department,13,institution,w_env
+"Birkbeck, University of London",strategy,13,institution,w_env
+"Birkbeck, University of London",academic,13,institution,w_env
+"Birkbeck, University of London",diversity,13,institution,w_env
+"Birkbeck, University of London",schools,12,institution,w_env
+"Birkbeck, University of London",group,12,institution,w_env
+"Birkbeck, University of London",open,12,institution,w_env
+"Birkbeck, University of London",working,11,institution,w_env
+Liverpool John Moores University,research,100,institution,w_env
+Liverpool John Moores University,ljmu,75,institution,w_env
+Liverpool John Moores University,staff,58,institution,w_env
+Liverpool John Moores University,rke,39,institution,w_env
+Liverpool John Moores University,support,38,institution,w_env
+Liverpool John Moores University,development,33,institution,w_env
+Liverpool John Moores University,university,32,institution,w_env
+Liverpool John Moores University,pgr,26,institution,w_env
+Liverpool John Moores University,institute,22,institution,w_env
+Liverpool John Moores University,since,22,institution,w_env
+Liverpool John Moores University,academic,20,institution,w_env
+Liverpool John Moores University,health,20,institution,w_env
+Liverpool John Moores University,strategic,19,institution,w_env
+Liverpool John Moores University,impact,19,institution,w_env
+Liverpool John Moores University,centre,19,institution,w_env
+Liverpool John Moores University,training,19,institution,w_env
+Liverpool John Moores University,liverpool,18,institution,w_env
+Liverpool John Moores University,external,18,institution,w_env
+Liverpool John Moores University,new,17,institution,w_env
+Liverpool John Moores University,funding,17,institution,w_env
+Manchester Metropolitan University,research,110,institution,w_env
+Manchester Metropolitan University,staff,39,institution,w_env
+Manchester Metropolitan University,rke,30,institution,w_env
+Manchester Metropolitan University,university,27,institution,w_env
+Manchester Metropolitan University,ref,20,institution,w_env
+Manchester Metropolitan University,manchester,19,institution,w_env
+Manchester Metropolitan University,students,19,institution,w_env
+Manchester Metropolitan University,pgrs,19,institution,w_env
+Manchester Metropolitan University,support,19,institution,w_env
+Manchester Metropolitan University,impact,18,institution,w_env
+Manchester Metropolitan University,development,18,institution,w_env
+Manchester Metropolitan University,engagement,17,institution,w_env
+Manchester Metropolitan University,income,16,institution,w_env
+Manchester Metropolitan University,access,16,institution,w_env
+Manchester Metropolitan University,strategy,15,institution,w_env
+Manchester Metropolitan University,training,15,institution,w_env
+Manchester Metropolitan University,pgr,15,institution,w_env
+Manchester Metropolitan University,equality,15,institution,w_env
+Manchester Metropolitan University,funding,14,institution,w_env
+Manchester Metropolitan University,since,14,institution,w_env
+Nottingham Trent University (NTU),research,116,institution,w_env
+Nottingham Trent University (NTU),ntu,83,institution,w_env
+Nottingham Trent University (NTU),university,27,institution,w_env
+Nottingham Trent University (NTU),researchers,21,institution,w_env
+Nottingham Trent University (NTU),school,20,institution,w_env
+Nottingham Trent University (NTU),doctoral,20,institution,w_env
+Nottingham Trent University (NTU),development,18,institution,w_env
+Nottingham Trent University (NTU),support,18,institution,w_env
+Nottingham Trent University (NTU),nottingham,16,institution,w_env
+Nottingham Trent University (NTU),new,16,institution,w_env
+Nottingham Trent University (NTU),training,15,institution,w_env
+Nottingham Trent University (NTU),academic,15,institution,w_env
+Nottingham Trent University (NTU),institutional,13,institution,w_env
+Nottingham Trent University (NTU),innovation,13,institution,w_env
+Nottingham Trent University (NTU),ref,13,institution,w_env
+Nottingham Trent University (NTU),investment,13,institution,w_env
+Nottingham Trent University (NTU),million,13,institution,w_env
+Nottingham Trent University (NTU),since,12,institution,w_env
+Nottingham Trent University (NTU),impact,12,institution,w_env
+Nottingham Trent University (NTU),annual,12,institution,w_env
+University of Huddersfield,research,148,institution,w_env
+University of Huddersfield,university,61,institution,w_env
+University of Huddersfield,staff,57,institution,w_env
+University of Huddersfield,impact,50,institution,w_env
+University of Huddersfield,support,30,institution,w_env
+University of Huddersfield,pgr,25,institution,w_env
+University of Huddersfield,development,25,institution,w_env
+University of Huddersfield,academic,24,institution,w_env
+University of Huddersfield,strategy,23,institution,w_env
+University of Huddersfield,training,23,institution,w_env
+University of Huddersfield,uoh,22,institution,w_env
+University of Huddersfield,funding,22,institution,w_env
+University of Huddersfield,researchers,19,institution,w_env
+University of Huddersfield,including,15,institution,w_env
+University of Huddersfield,engagement,15,institution,w_env
+University of Huddersfield,international,14,institution,w_env
+University of Huddersfield,integrity,13,institution,w_env
+University of Huddersfield,public,12,institution,w_env
+University of Huddersfield,schools,12,institution,w_env
+University of Huddersfield,ref,12,institution,w_env
+University of West London,research,95,institution,w_env
+University of West London,staff,33,institution,w_env
+University of West London,support,26,institution,w_env
+University of West London,university,25,institution,w_env
+University of West London,health,17,institution,w_env
+University of West London,impact,17,institution,w_env
+University of West London,centre,16,institution,w_env
+University of West London,students,15,institution,w_env
+University of West London,training,15,institution,w_env
+University of West London,including,14,institution,w_env
+University of West London,london,12,institution,w_env
+University of West London,access,12,institution,w_env
+University of West London,infrastructure,12,institution,w_env
+University of West London,engagement,12,institution,w_env
+University of West London,doctoral,12,institution,w_env
+University of West London,open,12,institution,w_env
+University of West London,public,12,institution,w_env
+University of West London,institute,11,institution,w_env
+University of West London,academic,11,institution,w_env
+University of West London,school,11,institution,w_env
+University of East London (UEL),research,111,institution,w_env
+University of East London (UEL),university,28,institution,w_env
+University of East London (UEL),london,26,institution,w_env
+University of East London (UEL),development,25,institution,w_env
+University of East London (UEL),support,24,institution,w_env
+University of East London (UEL),including,24,institution,w_env
+University of East London (UEL),community,22,institution,w_env
+University of East London (UEL),engagement,21,institution,w_env
+University of East London (UEL),funding,21,institution,w_env
+University of East London (UEL),impact,20,institution,w_env
+University of East London (UEL),staff,17,institution,w_env
+University of East London (UEL),east,15,institution,w_env
+University of East London (UEL),newham,14,institution,w_env
+University of East London (UEL),also,14,institution,w_env
+University of East London (UEL),academic,14,institution,w_env
+University of East London (UEL),open,14,institution,w_env
+University of East London (UEL),data,14,institution,w_env
+University of East London (UEL),local,13,institution,w_env
+University of East London (UEL),strategic,13,institution,w_env
+University of East London (UEL),uel,12,institution,w_env
+University of Stirling,research,160,institution,w_env
+University of Stirling,university,72,institution,w_env
+University of Stirling,support,33,institution,w_env
+University of Stirling,development,32,institution,w_env
+University of Stirling,programme,28,institution,w_env
+University of Stirling,staff,26,institution,w_env
+University of Stirling,including,18,institution,w_env
+University of Stirling,innovation,17,institution,w_env
+University of Stirling,researchers,17,institution,w_env
+University of Stirling,equality,15,institution,w_env
+University of Stirling,across,14,institution,w_env
+University of Stirling,academic,14,institution,w_env
+University of Stirling,health,13,institution,w_env
+University of Stirling,range,13,institution,w_env
+University of Stirling,funding,13,institution,w_env
+University of Stirling,training,12,institution,w_env
+University of Stirling,environment,10,institution,w_env
+University of Stirling,world,10,institution,w_env
+University of Stirling,new,10,institution,w_env
+University of Stirling,global,10,institution,w_env
